@@ -1,7 +1,7 @@
 Administration Portal used to handle users, products, earnings and balances of the admin.
-Supports adding users, updating notifications and other stats by the Admin.
-User friendly Interface assisted with Charts and datatables made using Materials UI. 
-Can be viewed in Dark Mode as well which has been made using Context API.
+<br>Supports adding users, updating notifications and other stats by the Admin.
+<br>User friendly Interface assisted with Charts and datatables made using Materials UI. 
+<br>Can be viewed in Dark Mode as well which has been made using Context API.
 
 # Getting Started with Create React App
 
